@@ -1,89 +1,100 @@
 ### Hi, I'm Muhammad Abdullah 👋
-<!--
-**muhammad4208/muhammad4208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 <p align="center">
-<img src="https://www.wizlynxgroup.com/content/images/RedTeamAttackLifecycle.jpg" />
-  <p align="center">
-    <img alt="Releases" src="https://img.shields.io/badge/-Red%20Teamer-red" /> <br>
-<b>Red Teaming Methodology</b> </p>
+  <img src="https://www.wizlynxgroup.com/content/images/RedTeamAttackLifecycle.jpg" alt="Red Team Attack Lifecycle" />
+  <br>
+  <img alt="Role" src="https://img.shields.io/badge/-Cybersecurity%20Researcher-blue" />
+  <img alt="Role" src="https://img.shields.io/badge/-Red%20Teamer-red" />
+  <br>
+  <b>Bridging Practical Offensive Security, IT Risk Management & Bleeding-Edge Academic Research</b>
+</p>
+
 <p align="center">&nbsp;</p>
-<p align="center">&nbsp;</p>
-Hi! I'm *Muhammad Abdullah*, IT Risk Management Officer || Certified in Cybersecurity ISC² || IT Support Specialist || Doing MSc CS   
 
-## What are some of my key projects?  
+Hi! [cite_start]I'm **Muhammad Abdullah**, a Cybersecurity Researcher and Security Professional[cite: 473]. [cite_start]I am currently a Graduate Student pursuing my **MSc in Computer Science at Nazarbayev University** (Focus: SDN, Wireless Communications, and Intelligent Systems)[cite: 483, 484]. 
 
-- 🔧 **BGVA (Banner Grabbing and Vulnerability Analysis)**  
-  Developed a Python-based tool for web application security testing, integrating Nmap, Nikto, and BuiltWith. Implemented injection attack tests for comprehensive vulnerability analysis.  
+[cite_start]I blend practical industry execution—ranging from IT risk compliance in commercial banking to hands-on web penetration testing—with advanced applied cryptography and blockchain architecture research[cite: 473, 474, 477, 496, 502].
 
-- 🛒 **E-Commerce Website**  
-  Built a fully functional website using HTML, CSS, JavaScript, PHP, and SQL.  
+---
 
-- 🖥️ **C++ Applications**  
-  Created tools such as a student database manager, a clock application, and a basic system for a burger shop.  
+## 🔬 Advanced Research & Key Projects
 
-- 🌐 **Client-Server Application**  
-  Designed a Python-based application enabling communication between devices across a network.  
+* [cite_start]**Secure Digital Twin for Additive Manufacturing** (Research Assistant | Jan 2026 – Present) [cite: 476]
+    * [cite_start]Built an anomaly-detection verification framework for industrial 3D printing systems[cite: 476].
+    * [cite_start]Integrated **zk-SNARKs** with digital twin architectures using *Circom* and *Snarkjs* for cryptographic state verification[cite: 477, 478].
+* [cite_start]**Secure Resource Management for IoT Offloading** (MSc Thesis | Sep 2025 – May 2026) [cite: 479]
+    * [cite_start]Designed a secure partial offloading architecture leveraging token-based cryptographic access mechanisms on simulated MEC servers using *Web3*, *Ganache*, *Mininet*, and *Docker*[cite: 479, 480, 481].
+* [cite_start]🔧 **BGVA (Banner Grabbing and Vulnerability Analysis Tool)** [cite: 304]
+    * [cite_start]Developed an automated Python and Bash-based security tool integrating *Nmap*, *Nikto*, *OWASP ZAP*, and *BuiltWith* to detect SQLi, XSS, and information disclosure flaws[cite: 304, 482, 483].
+* [cite_start]🛒 **E-Commerce Web Architecture** [cite: 305]
+    * [cite_start]Built a fully functional, full-stack e-commerce bookshop platform using HTML, CSS, JavaScript, PHP, SQL, and SQLite[cite: 305, 486].
 
-## What's my professional experience?  
+---
 
-- 🏦 **IT Risk Management Officer**  
-  Afghan United Bank, Head Office, Kabul (Apr 2024 – Jul 2024)  
-  - Assessed IT policies for compliance with security standards and regulations.  
-  - Developed and implemented risk assessment questionnaires to evaluate practices across departments.  
-  - Conducted regular security checks to ensure adherence to organizational protocols.  
+## 💼 Professional & Cybersecurity Experience
 
-- 🏗️ **IT Analyst**  
-  Zmalyar Construction Company, Laghman (Sept 2023 – Feb 2024)  
-  - Provided technical support for hardware/software issues.  
-  - Ensured data integrity and security of digital records.  
-  - Supported inventory management and system updates across departments.  
+* 🛡️ **TSARKA (Center for Cyber Attack Analysis)** | [cite_start]*Cybersecurity Intern* (Oct 2025 – Feb 2026) [cite: 501]
+    * [cite_start]Delivered a comprehensive OWASP Top 10 penetration testing assessment for a high-traction SaaS platform, uncovering 12 critical vulnerabilities (including stored XSS and IDOR)[cite: 502].
+* 🏦 **Afghan United Bank (Head Office)** | [cite_start]*IT Risk Management Officer* (Apr 2024 – Jul 2024) [cite: 308, 496]
+    * [cite_start]Conducted extensive risk and compliance reviews for core banking infrastructure, e-banking layers, and CCTV networks against **ISO 27001** and regional banking mandates[cite: 496].
+    * [cite_start]Presented risk vectors and actionable mitigation roadmaps directly to the Chief Risk Officer (CRO) and executive leadership[cite: 498].
+* 💡 **COWMAS** | [cite_start]*IT Business Analyst Intern* (Jun 2025 – Aug 2025) [cite: 503]
+    * [cite_start]Designed over 15 structural engineering workflows and SaaS cloud architecture diagrams for an agritech platform using Figma and Miro[cite: 504].
+* 🏗️ **Zmalyar Construction Company** | [cite_start]*IT Analyst* (Sep 2023 – Mar 2024) [cite: 311, 499]
+    * [cite_start]Managed secure system architecture, patch management cycles, network access controls, and technical infrastructure stability[cite: 499, 500].
+* [cite_start]✍️ **Cybersecurity Blogger & CTF Player** (Sept 2023 – Aug 2024) [cite: 313, 314, 315]
+    * [cite_start]Active participant in global CTF events focusing on binary exploitation, penetration testing environments, and ISMS auditing frameworks[cite: 315]. [cite_start]Published technical walkthroughs and deep dives on Medium[cite: 313].
 
-- ✍️ **Blogger**  
-  Self-Driven (Apr 2024 – Aug 2024)  
-  - Published detailed articles on cybersecurity topics, including Capture the Flag (CTF) challenges and vulnerability analysis.  
+---
 
-- 🕵️ **CTF Player**  
-  (Sept 2023 – Feb 2024)  
-  - Participated in CTF competitions, solving challenges related to penetration testing, vulnerability assessments, and ISMS techniques.  
+## 👨‍🏫 Academic Teaching
 
-## Professional Skills  
+* 💻 **Cyber Talent Forge (USA)** | [cite_start]*Cybersecurity Instructor (Part-Time)* (Jan 2025 – Oct 2025) [cite: 487]
+    * [cite_start]Trained 15+ international students, enabling a **>70% first-time pass rate** for the *CompTIA Security+* certification[cite: 487].
+    * [cite_start]Deployed 12+ virtual labs covering infrastructure auditing, automated red/blue simulations (using CALDERA and Splunk), and digital forensics (Autopsy)[cite: 488, 490].
+* 🖥️ **Nazarbayev University** | [cite_start]*Graduate Lab / Teaching Assistant* (Jan 2025 – Dec 2025) [cite: 492, 493]
+    * [cite_start]Instructed and graded coursework for Parallel Systems & GPU Programming (CUDA) [cite: 492] [cite_start]and Programming Fundamentals (Python) [cite: 493] for cohorts of 30–50+ students.
 
-- 🔐 **Security Tools**: Nmap, Metasploit, Wireshark, Burp Suite, Nessus, Nikto, Hydra, SQLmap, Aircrack-ng.  
-- 🌐 **Networking**: Expertise in TCP/IP troubleshooting, router/switch configuration, VPNs, and security protocols.  
-- 📦 **Virtualization**: Proficient in VirtualBox, VMware, and Docker.  
-- 🖥️ **Programming/Scripting**: Python, Bash, C++, Java, JavaScript, HTML, CSS, PHP, SQL.  
-- 🛠️ **Operating Systems**: Ubuntu, CentOS, Kali Linux, Parrot OS, Windows.  
-- 📊 **Project Management**: Experienced in leading teams and managing IT risk initiatives.  
-- 🧠 **Problem-Solving**: Strong technical troubleshooting skills.  
+---
 
-## Certifications  
+## 🛠️ Technical Skill Matrix
 
-- **Certified in Cybersecurity (CC)** – (ISC)²  
-- **Practical Ethical Hacking** – TCM Security Academy  
-- **NDG Linux Essentials** – Cisco Networking Academy  
-- **Cybersecurity Essentials** – Cisco Networking Academy  
-- **Introduction to IoT** – Cisco Networking Academy  
-- **Communicating and Collaborating** – University of Leeds  
-- **Cybersecurity** – Corvit Institute Rawalpindi   
+| Category | Technologies & Toolsets |
+| :--- | :--- |
+| **Security & Penetration Testing** | [cite_start]Splunk, Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP, CALDERA, Autopsy, Hashcat, Nessus, Nikto [cite: 315, 316, 505] |
+| **Programming & Scripting** | [cite_start]Python, Solidity, Bash, Go, C++, Java, JavaScript, MATLAB, PHP, SQL [cite: 319, 505] |
+| **Cloud, DevOps & Environments** | [cite_start]Docker, Kubernetes, AWS, Mininet, Ganache, Web3, VirtualBox, VMware [cite: 318, 481, 505] |
+| **Operating Systems** | [cite_start]Kali Linux, Parrot OS, Ubuntu, CentOS, Windows Server [cite: 320, 505] |
+| **Frameworks & Compliance** | [cite_start]ISO/IEC 27001, NIST SP 800-53, MITRE ATT&CK, OWASP Top 10 [cite: 505] |
 
-## What are my interests?  
+---
 
-- 🌌 **Passions**: History, astronomy, entrepreneurship, and fitness.  
-- 📖 **Clubs**: Member of the Language and Linguistic Learning Club.  
+## 📜 Certifications
 
-## Let's connect!  
+* [cite_start]**Certified in Cybersecurity (CC)** – (ISC)² [cite: 322]
+* [cite_start]**Practical Ethical Hacking (PEH)** – TCM Security Academy [cite: 322]
+* [cite_start]**NDG Linux Essentials** – Cisco Networking Academy [cite: 322]
+* [cite_start]**Cybersecurity Essentials** – Cisco Networking Academy [cite: 322]
+* [cite_start]**Introduction to IoT** – Cisco Networking Academy [cite: 322]
 
-- 📧 **Email**: [abdullah.niazi@nu.edu.kz](mailto:abdullah.niazi@nu.edu.kz)  
-- 🌐 **Medium Blog**: [Medium](https://medium.com/@muhammad4208)  
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/muhammad-abdullah-niazi-baa6a0224/)  
-        
-## Some helpful resources
+---
 
-- 💻 [Tryhackme](https://tryhackme.com/) is a great hands-on online platform by [Ashu Savani and Ben Spring](https://uk.linkedin.com/in/springben). When examining TryHackMe's stellar reputation within the cyber security sector on multiple platforms, it's clear that it is extraordinarily well suited to newbies.
-- 🐍 [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_3?dchild=1&keywords=effective+python&qid=1596076710&s=books&sr=1-3) by [Brett Slatkin](https://www.linkedin.com/in/bslatkin/) is a great book full of advice that will help anyone write better Python code.  The book contains a bunch of self-contained lessons that shine a light into the language strengths and expressiveness.  It is truly excellent!
-- 🦈 [OverTheWire](https://overthewire.org/wargames/) by [Steven Van Acker](https://se.linkedin.com/in/stevenvanacker) Through engaging games, the OverTheWire community can assist you in learning and applying security ideas. They provide a variety of wargames to improve your skills.
-- :alarm_clock: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2FD1OUTDC54F4&keywords=cracking+the+coding+interview&qid=1655494723&sprefix=crac%2Caps%2C919&sr=8-1). This book is pretty dense, but it's an excellent resource for preparing for a technical interview in any language.
-## Let's connect!
+## 📑 Research Publications (In Progress / Under Review)
 
--   :handshake: To learn more about my journey, visit my LinkedIn [profile](https://www.linkedin.com/in/muhammad-abdullah-niazi-baa6a0224/), and let's connect. I'm always happy to chat with fellow developers.
+* *M. A. Niazi*, "Task Offloading: A Comprehensive Survey" *(Under Review)*[cite: 505, 538].
+* *M. A. Niazi*, "Blockchain-SDN Framework for Secure Resource Management" *(Targeting: IEEE Sensors Journal)*[cite: 505, 538].
 
+---
+
+## 🌐 Let's Connect!
+* [cite_start]💼 **LinkedIn**: [Muhammad Abdullah Niazi](https://www.linkedin.com/in/muhammad-abdullah-niazi-baa6a0224/) [cite: 325]
+* [cite_start]✍️ **Medium Technical Blog**: [@NiaziSec](https://medium.com/@NiaziSec) [cite: 296]
+
+---
+
+## 📚 Highly Recommended Technical Resources
+
+* [cite_start]💻 [TryHackMe](https://tryhackme.com/) – Exceptionally structured, gamified lab environments built perfectly for onboarding engineering minds into modern cybersecurity landscapes[cite: 326].
+* [cite_start]🐍 [Effective Python](https://effectivepython.com/) by Brett Slatkin – An absolute masterclass text comprised of targeted lessons that illuminate the language's core expressiveness[cite: 328, 329].
+* [cite_start]🦈 [OverTheWire](https://overthewire.org/) – Immersive, CLI-driven Linux wargames designed to forge foundational networking and Linux command muscle memory[cite: 330].
+* [cite_start]⏰ [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell – Dense but crucial repository preparation for navigating deep technical or algorithmic assessment tracks[cite: 331, 332].
