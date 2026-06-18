@@ -10,9 +10,9 @@
 
 <p align="center">&nbsp;</p>
 
-Hi! I'm **Muhammad Abdullah**, a Cybersecurity Researcher and Security Professional. I am currently a Graduate Student pursuing my **MSc in Computer Science at Nazarbayev University** (Focus: SDN, Wireless Communications, and Intelligent Systems). 
+Hi! I'm **Muhammad Abdullah**, a Cybersecurity Researcher and Security Professional. I am a Graduate Student (Focus: SDN, Wireless Communications, and Blockchain). 
 
-I blend practical industry execution—ranging from IT risk compliance in commercial banking to hands-on web penetration testing—with advanced applied cryptography and blockchain architecture research.
+I have experience in IT risk compliance in banking, and web penetration testing, with applied cryptography and blockchain architecture research.
 
 ---
 
