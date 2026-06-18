@@ -1,7 +1,6 @@
 ### Hi, I'm Muhammad Abdullah 👋
 
 <p align="center">
-  <img src="https://www.wizlynxgroup.com/content/images/RedTeamAttackLifecycle.jpg" alt="Red Team Attack Lifecycle" />
   <br>
   <img alt="Role" src="https://img.shields.io/badge/-Cybersecurity%20Researcher-blue" />
   <img alt="Role" src="https://img.shields.io/badge/-Red%20Teamer-red" />
