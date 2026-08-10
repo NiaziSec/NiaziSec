@@ -16,7 +16,7 @@ I have experience in IT risk compliance in banking, and web penetration testing,
 
 ---
 
-## 🔬 Advanced Research & Key Projects
+## 🔬 Research & Key Projects
 
 * **Secure Digital Twin for Additive Manufacturing** (Research Assistant | Jan 2026 – Present)
     * Built an anomaly-detection verification framework for industrial 3D printing systems.
