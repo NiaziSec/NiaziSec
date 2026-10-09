@@ -6,15 +6,12 @@
   <img alt="Red Teamer" src="https://img.shields.io/badge/Security-Red%20Teamer-B91C1C?style=flat-square" />
 </p>
 
-I am a cybersecurity researcher, computing lecturer, and security professional with experience in penetration testing, IT risk management, blockchain, IoT security, secure systems, and applied cryptography.
 
 ## 🔬 Research Interests
 
+- Blockchain, zero-knowledge proofs
+- SDN, Secure IoT offloading
 - Secure digital twins and cyber-physical systems
-- Blockchain, Web3, and zero-knowledge proofs
-- IoT and secure resource offloading
-- Web application security and automation
-- Cybersecurity education and virtual labs
 
 ## 🚀 Selected Projects
 
@@ -26,7 +23,6 @@ I am a cybersecurity researcher, computing lecturer, and security professional w
 ## 💼 Experience
 
 - Lecturer in computing and cybersecurity
-- Cybersecurity Instructor at Cyber Talent Forge
 - Graduate Teaching Assistant at Nazarbayev University
 - Cybersecurity Intern at TSARKA
 - IT Risk Management Officer at Afghan United Bank
@@ -49,7 +45,7 @@ I am a cybersecurity researcher, computing lecturer, and security professional w
 ## 📑 Research
 
 - *Task Offloading: A Comprehensive Survey* — under review
-- *Blockchain-SDN Framework for Secure Resource Management* — in development
+- *Blockchain-SDN Framework for Secure Resource Management* — thesis
 
 ## 🌐 Connect
 
